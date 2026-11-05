@@ -7,6 +7,10 @@ The APEX-09 is a custom designed 9-key mechanical macropad developed for the Hac
 - 0.91 inch OLED display for animations and mode changing
 - 9 SK6812 MINI-E LEDs for backlighting the MacroPad
 
+## Schematic:
+Wow it looks quite good now that its done.
+<img width="921" height="654" alt="Screenshot 2026-11-05 at 21 35 38" src="https://github.com/user-attachments/assets/197d1725-4aff-48d4-89dd-8e9c1a90fe98" />
+
 ## Bill of Materials (BOM)
 All the components needed for this macropad design:
 - 9x Cherry MX Switches
