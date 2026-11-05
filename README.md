@@ -12,7 +12,7 @@ Wow it looks quite good now that its done.
 <img width="921" height="654" alt="Screenshot 2026-11-05 at 21 35 38" src="https://github.com/user-attachments/assets/197d1725-4aff-48d4-89dd-8e9c1a90fe98" />
 
 ## PCB:
-I never truly knew pain before this... (Except installing linux!) -10 hours of life I am not getting back.
+I never truly knew pain before this! (Except installing linux!) -10 hours of life I am not getting back.
 <img width="542" height="678" alt="Screenshot 2026-11-05 at 22 19 01" src="https://github.com/user-attachments/assets/a8f34cbd-c13b-4cd5-822e-5f2cc07c06c2" />
 
 ## Bill of Materials (BOM)
