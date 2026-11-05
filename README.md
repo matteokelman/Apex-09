@@ -18,3 +18,6 @@ All the components needed for this macropad design:
 - 1x EC11 Rotary encoder
 - 1x XIAO RP2040 (MicroController)
 - 1x Case (The cool bit!)
+
+## Final Notes
+Not really sure what to write here, thank you to hackclub!
