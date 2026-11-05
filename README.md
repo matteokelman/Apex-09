@@ -1,3 +1,4 @@
+<img width="179" height="233" alt="Screenshot 2026-11-05 at 22 15 17" src="https://github.com/user-attachments/assets/2d4df20b-051c-4004-9cdf-7c6408a590b9" />
 # Apex-09
 The APEX-09 is a custom designed 9-key mechanical macropad developed for the Hack Club Hackpad project. It features mechanical switches, addressable LEDs, a rotary encoder, and a 0.91-inch OLED display, powered by a Seeed XIAO. Its design language is inspired by the Phalanx's (From Alton Towers) brutally efficient military kit.
 
@@ -10,6 +11,11 @@ The APEX-09 is a custom designed 9-key mechanical macropad developed for the Hac
 ## Schematic:
 Wow it looks quite good now that its done.
 <img width="921" height="654" alt="Screenshot 2026-11-05 at 21 35 38" src="https://github.com/user-attachments/assets/197d1725-4aff-48d4-89dd-8e9c1a90fe98" />
+
+## PCB:
+I never truly knew pain before this... (Except installing linux!) -10 hours of life I am not getting back.
+<img width="179" height="233" alt="Screenshot 2026-11-05 at 22 15 17" src="https://github.com/user-attachments/assets/25dbfe95-63c4-494a-a450-9636a170e379" />
+
 
 ## Bill of Materials (BOM)
 All the components needed for this macropad design:
