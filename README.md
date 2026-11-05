@@ -20,4 +20,4 @@ All the components needed for this macropad design:
 - 1x Case (The cool bit!)
 
 ## Final Notes
-Not really sure what to write here, thank you to hackclub!
+Not really sure what to write here.  Thanks you hackclub for allowing me to do this awesome project!
