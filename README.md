@@ -13,9 +13,7 @@ Wow it looks quite good now that its done.
 
 ## PCB:
 I never truly knew pain before this... (Except installing linux!) -10 hours of life I am not getting back.
-
-<img width="179" height="233" alt="Screenshot 2026-11-05 at 22 15 17" src="https://github.com/user-attachments/assets/25dbfe95-63c4-494a-a450-9636a170e379" />
-
+<img width="542" height="678" alt="Screenshot 2026-11-05 at 22 19 01" src="https://github.com/user-attachments/assets/a8f34cbd-c13b-4cd5-822e-5f2cc07c06c2" />
 
 ## Bill of Materials (BOM)
 All the components needed for this macropad design:
