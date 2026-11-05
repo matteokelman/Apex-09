@@ -1,4 +1,3 @@
-<img width="179" height="233" alt="Screenshot 2026-11-05 at 22 15 17" src="https://github.com/user-attachments/assets/2d4df20b-051c-4004-9cdf-7c6408a590b9" />
 # Apex-09
 The APEX-09 is a custom designed 9-key mechanical macropad developed for the Hack Club Hackpad project. It features mechanical switches, addressable LEDs, a rotary encoder, and a 0.91-inch OLED display, powered by a Seeed XIAO. Its design language is inspired by the Phalanx's (From Alton Towers) brutally efficient military kit.
 
