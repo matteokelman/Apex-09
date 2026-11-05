@@ -23,5 +23,8 @@ All the components needed for this macropad design:
 - 1x XIAO RP2040 (MicroController)
 - 1x Case (The cool bit!)
 
+## A note about M-Shot 
+M-Shot Innovation is my own company, where I develop and work on my hardware, software and technology projects. You'll see the M-Shot name on the APEX-09 schematic because it's my company's name and acts as a small mark of ownership and identity across my projects. APEX-09 is one of the projects I developed under M-Shot!
+
 ## Final Notes
 Not really sure what to write here.  Thanks you hackclub for allowing me to do this awesome project!
