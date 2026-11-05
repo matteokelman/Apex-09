@@ -6,3 +6,7 @@ The APEX-09 is a custom designed 9-key mechanical macropad developed for the Hac
 - A EC11 Rotary encoder (No push button sorry :(, I ran out of pins)
 - 0.91 inch OLED display for animations and mode changing
 - 9 SK6812 MINI-E LEDs for backlighting the MacroPad
+- 9x through-hole 1N4148 Diodes 
+- 4x M3x16mm screws (for mounting)
+- 4x Heatset Inserts
+- 1x 3d Printed Case (The cool Bit!)
